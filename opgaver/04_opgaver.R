@@ -31,7 +31,7 @@ seats <- read_csv("https://raw.githubusercontent.com/jespersvejgaard/PDS/master/
 # 8. Wrap dit while-loop i et for-loop, og slå 3 seksere i streg 100 gange. Hvor mange slags skal du bruge i gennemsnit? 
 
 
-
+#Testredigering.
 
 
 
